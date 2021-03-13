@@ -1,0 +1,39 @@
+#disclaimer{
+    text-align:center;
+    width:100%;
+    background-color: #ea1c2c;
+}
+
+#heading{
+    width:50%;
+    margin-left:25%;
+    margin-right:25%;
+    
+    color:black;
+    text-align:center;
+    font-family: "Anton", sans-serif;
+    letter-spacing: 10px;
+}
+#heading h3{
+    letter-spacing: 1px;
+}
+.navbar-brand img{
+    width:150px;
+    padding:1px;
+}
+#navLinks{
+    font-family: "Anton", sans-serif;
+}
+#navLinks .nav-link:hover{
+    color:#ea1c2c;
+}
+
+@media (max-width:1600px){
+body{
+    padding-top:75px;
+    
+}
+}
+
+
+
