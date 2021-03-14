@@ -1,1 +1,1 @@
-A little experiment to test out how Bootstrap work and GitHub work
+A little experiment to test out how Bootstrap and GitHub work
